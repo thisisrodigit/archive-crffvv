@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://thisisrodigit.github.io/archive-crffvv/sitemap.xml
